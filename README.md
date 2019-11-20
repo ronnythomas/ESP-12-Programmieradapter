@@ -1,4 +1,4 @@
-# ESP-12 Ürogrammieradapter
+# ESP-12 Programmieradapter
 ## benötigte Hardware 
 
 * 1x ESP-12 
